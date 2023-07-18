@@ -11,6 +11,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" height="50" width="50"/>
     <img class="" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="react" height="50" width="50" />
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="sql" height="50" width="50"/>
+      <img src="https://www.flaticon.com/free-icon/php_5968332?related_id=5968332" alt="php" height="50" width="50"/>
     </div>
     <hr>
 
