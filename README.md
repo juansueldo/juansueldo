@@ -10,7 +10,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" height="50" width="50" />
     <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" height="50" width="50"/>
     <img class="" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="react" height="50" width="50" />
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="sql" height="50" width="50"/>
+    <img src="https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo.png" alt="mysql" height="50" width="50"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" height="50" width="50"/>
     </div>
     <hr>
