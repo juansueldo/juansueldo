@@ -4,7 +4,7 @@
   <h3>🎓 Estudiante en Tecnicatura en Sistemas Informáticos en la UTN</h3>
       <hr/>
   <center><h2>Lenguajes y tecnologías ⚙️:</h2></center>
-      <div text-align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C sharp" height="50" width="50"/>
+      <div text-align="center" style="display: inline_block"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C sharp" height="50" width="50"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="50" width="50"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dot net" height="50" width="50"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" width="50"/>
