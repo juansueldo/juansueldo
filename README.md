@@ -41,13 +41,10 @@
       <hr>
 
 ## Proyectos
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=juansueldo&repo=TP1_Labo_IV&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/juansueldo/TP1_Labo_IV)
-
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=juansueldo&repo=laboiv-pp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/juansueldo/laboiv-pp)
-
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=juansueldo&repo=juegomemoriaApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/juansueldo/juegomemoriaApp)
-
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=juansueldo&repo=juansueldo.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/juansueldo/juansueldo.github.io)
+[![Sala De Juegos](https://github-readme-stats.vercel.app/api/pin/?username=juansueldo&repo=TP1_Labo_IV&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/juansueldo/TP1_Labo_IV)
+[![Modelo Parcial](https://github-readme-stats.vercel.app/api/pin/?username=juansueldo&repo=laboiv-pp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/juansueldo/laboiv-pp)
+[![Juego Memoria](https://github-readme-stats.vercel.app/api/pin/?username=juansueldo&repo=juegomemoriaApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/juansueldo/juegomemoriaApp)
+[![Web Personal](https://github-readme-stats.vercel.app/api/pin/?username=juansueldo&repo=juansueldo.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/juansueldo/juansueldo.github.io)
 
 <p align="left">
   <a href="https://github.com/juansueldo?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
