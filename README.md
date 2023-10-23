@@ -15,30 +15,31 @@
  </a>
 <br />
   <center><h2>Lenguajes y tecnologías ⚙️:</h2></center>
-      <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C sharp" height="50" width="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="50" width="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dot net" height="50" width="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" width="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="50" width="50" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" height="50" width="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="50" width="50"/>
-      <img class="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="50" width="50" />
-      <img class="" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" height="50" width="50" />
-      <img class="" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="react" height="50" width="50" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" width="60"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="50" width="50"/>
-      <img src="https://raw.githubusercontent.com/caidevOficial/FF_Resume/main/assets/icons/postman/getpostman-icon.svg" alt="postman" height="50" width="50"/>
-      <img src="https://raw.githubusercontent.com/caidevOficial/Logos/master/Lenguajes/logo-eclipse.png" alt="eclipse" height="50" width="50"/>
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png?raw=true" alt="visual studio code" height="50" width="50"/>
-      <img src="https://camo.githubusercontent.com/276ce2dc21df385028f0f2c4d8315b616f8e2162a5c54f8acaae77edddadf13d/68747470733a2f2f6361696465766f66696369616c2e6769746875622e696f2f46465f526573756d652f6173736574732f69636f6e732f6d7373716c2f6d6963726f736f66742d73716c2d7365727665722e7376673f7261773d74727565" alt="sql" height="50" width="50"/>
-      <img src="https://raw.githubusercontent.com/caidevOficial/Logos/master/Lenguajes/logo-eclipse.png" alt="eclipse" height="50" width="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="50" width="50"/>
-      <img src="https://raw.githubusercontent.com/caidevOficial/FF_Resume/main/assets/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" height="50" width="50"/>
-      <img src="https://raw.githubusercontent.com/caidevOficial/Logos/master/Lenguajes/windows.svg" alt="windows" height="50" width="50"/>
-        </p>
-    </div>
-      <hr>
+  
+![Php](https://img.shields.io/badge/php-7474ac?style=for-the-badge&labelColor=black&logo=php&logoColor=7474ac)
+![Codeigniter](https://img.shields.io/badge/codeigniter-e0491a?style=for-the-badge&labelColor=black&logo=codeigniter&logoColor=e0491a)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Ionic](https://camo.githubusercontent.com/1dc25a3b0ac719c353f9ce566b48738df88dab9aeacdc53a71846a01a5fb5c38/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696f6e69632d3136366266653f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d696f6e6963266c6f676f436f6c6f723d313636626665)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Git](https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffcc30?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffcc30)
+![AndroidStudio](https://img.shields.io/badge/android%20studio-6ba874?style=for-the-badge&labelColor=black&logo=android&logoColor=6ba874)
+![Angular](https://img.shields.io/badge/angular-dd0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=dd0031)
+![C#](https://img.shields.io/badge/csharp-64237b?style=for-the-badge&labelColor=black&logo=csharp&logoColor=64237b)
+![MySql](https://img.shields.io/badge/mysql-01758e?style=for-the-badge&labelColor=black&logo=mysql&logoColor=01758e)
+![C](https://img.shields.io/badge/c-01589c?style=for-the-badge&labelColor=black&logo=c&logoColor=01589c)
+
+
+<hr>
 
 ## Proyectos
 [![Sala De Juegos](https://github-readme-stats.vercel.app/api/pin/?username=juansueldo&repo=TP1_Labo_IV&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/juansueldo/TP1_Labo_IV)
