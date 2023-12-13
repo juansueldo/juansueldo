@@ -5,7 +5,7 @@
 [![wakatime](https://wakatime.com/badge/user/018b5c67-ed97-45fa-84be-51abba5b591f.svg)](https://wakatime.com/@018b5c67-ed97-45fa-84be-51abba5b591f)
 
   <h1>Hola <span>👋</span>, soy Juan Sueldo</h1>
-  <h3>🎓 Estudiante en Tecnicatura en Sistemas Informáticos en la UTN</h3>
+  <h3>Developer</h3>
       <hr>
       <div text-align="center" style="display: inline_block">
         <p align="center">
