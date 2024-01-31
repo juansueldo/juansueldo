@@ -21,7 +21,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Ionic](https://camo.githubusercontent.com/1dc25a3b0ac719c353f9ce566b48738df88dab9aeacdc53a71846a01a5fb5c38/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696f6e69632d3136366266653f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d696f6e6963266c6f676f436f6c6f723d313636626665)
+![Ionic](https://img.shields.io/badge/ionic-458bff?style=for-the-badge&labelColor=black&logo=ionic&logoColor=458bff)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
